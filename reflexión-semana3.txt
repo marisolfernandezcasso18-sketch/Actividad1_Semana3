@@ -1,0 +1,8 @@
+Git es un software que permite mantener un registro de cambios, identificando fallas en un 
+proyecto, ver exactamente donde se realizarón los cambios, cuando y quien los realizo, este
+aspecto clave cuando se trata de trabajar colaborativamente, al integrarse varios desarrolladores
+en un solo proyectos se puede trabajar de forma coordinada y realizar cambios sin alterar el
+código principal, en caso de detectar fallas se reastauran versión anteriores. El exito 
+de un proyecto se puede garantizar empleando herramientas como Git, si no utilizara el 
+proyecto no se coordinaria ni seria eficiente. Por otro lado, la importancia de mantener un registro
+de cambios radica en la trazabilidad y seguridad que aporta usar Git en un proyecto.

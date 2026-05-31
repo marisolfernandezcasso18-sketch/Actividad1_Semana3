@@ -1,0 +1,7 @@
+Repositorio: es un elemento que contiene todo el código, los archivos y el historial de
+revisiones y cambios realizados, el repositorio puede ser local o remoto, lo cual permite
+trabajar colaborativamente, online o localmente.
+Commit: es una confirmación, guardado o fotografia del repositorio, las cuales se realizan 
+en momentos especificos, registrando de forma segura y permantente los cambios realizados.
+Push: el comando push se utiliza para transferir y cargar versiones del codigo a la computadora 
+local, se utiliza para actualizar la rama en el repositorio remoto.
